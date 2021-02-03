@@ -1,12 +1,8 @@
-## Hi, I'm Robert Radford 👋
-I was a Cryptologic Linguist in the Army until summer 2020 and took the lockdown period as I came out of the service to delve head first into web development and learn as much as I possibly could!
+## Hi, I'm Ryan Pilon👋
+I am a software developer with very good problem solving and critical thinking skills. I enjoy using the python language primarily but am well versed in JavaScript, to problem solve and come up with solutions to various problems the least complicated and the easiest way. 
 ---
 ### Git
 <img alt="Ryans GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RyanPilon&count_private=true&hide_rank=true&bg_color=45,d7be69,a47e4f,5c6b28,424a26,2a3019&text_color=02d2d7&title_color=99edef" />  <img alt="Ryan's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPilon&layout=compact&bg_color=45,d7be69,a47e4f,5c6b28,424a26,2a3019&text_color=02d2d7&title_color=99edef" />
-### Code Challenges
----
-getting smarter every day on Codewars:
-<img src = "https://www.codewars.com/users/RobertR928/badges/large" />
 ### Connect with me!
 ---
 LinkedIn: please feel free to reach out I'd love to connect!
