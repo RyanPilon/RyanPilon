@@ -1,5 +1,5 @@
-## Hi, I'm Ryan Pilon👋
-I am a software developer with very good problem solving and critical thinking skills. I enjoy using the python language primarily but am well versed in JavaScript, to come up with solutions to various problems the least complicated and be as straightforward as possible. 
+## Hi, I'm Ryan Pilon 👋
+I am a software developer with very good problem solving and critical thinking skills. My interests are in the Python language doing Back-End development, although I do enjoy working in the Front-End and am well versed in JavaScript, HTML, and CSS3. 
 ---
 ### Git
 <img alt="Ryans GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RyanPilon&count_private=true&bg_color=45,d7be69,a47e4f,5c6b28,424a26,2a3019&text_color=02d2d7&title_color=99edef" />  <img alt="Ryan's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPilon&layout=compact&bg_color=45,d7be69,a47e4f,5c6b28,424a26,2a3019&text_color=02d2d7&title_color=99edef" />
